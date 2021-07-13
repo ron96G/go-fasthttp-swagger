@@ -1,4 +1,4 @@
-module github.com/rgumi/go-fasthttp-swagger
+module github.com/ron96G/go-fasthttp-swagger
 
 go 1.15
 
