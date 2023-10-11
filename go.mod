@@ -12,7 +12,5 @@ require (
 	github.com/swaggo/files v0.0.0-20190704085106-630677cd5c14
 	github.com/swaggo/swag v1.7.0
 	github.com/valyala/fasthttp v1.24.0
-	golang.org/x/net v0.0.0-20210525063256-abc453219eb5 // indirect
-	golang.org/x/sys v0.0.0-20210525143221-35b2ab0089ea // indirect
-	golang.org/x/tools v0.1.2 // indirect
+	golang.org/x/net v0.17.0 // indirect
 )
